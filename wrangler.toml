@@ -1,4 +1,4 @@
-name = "idgcp1-vidio" # todo
+name = "idgcp1-vidiojink" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -27,4 +27,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "48abe799-e26f-4700-bd1f-bb13a8f17eb9"
+UUID = "ac7380d3-7029-4b69-8b04-1e5b2b6f3521"
