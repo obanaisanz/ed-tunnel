@@ -1,23 +1,23 @@
-name = "idgcp1-vidiojink" # todo
+name = "sgdo-vidio25k" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "idgcpv1.qyubisanz.us.kg"
+pattern = "sgdo.qyubisanz.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "updates.netflix.com.idgcpv1.qyubisanz.us.kg"
+pattern = "updates.netflix.com.sgdo.qyubisanz.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.idgcpv1.qyubisanz.us.kg"
+pattern = "quiz.int.vidio.com.sgdo.qyubisanz.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "support.udemy.com.idgcpv1.qyubisanz.us.kg"
+pattern = "support.udemy.com.sgdo.qyubisanz.us.kg"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.idgcpv1.qyubisanz.us.kg"
+pattern = "zaintest.vuclip.com.sgdo.qyubisanz.us.kg"
 custom_domain = true
 
 [vars]
@@ -27,4 +27,4 @@ custom_domain = true
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "ac7380d3-7029-4b69-8b04-1e5b2b6f3521"
+UUID = "ed542589-b669-4dfd-b84a-652b3f4c4087"
